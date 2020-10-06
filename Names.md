@@ -22,14 +22,20 @@ Daksh Jain
 Developer| Technical Consultant and an ardent fan of Real Madrid :)
 DakshJn
 ```
-#### 6
+
+#### 5
+'''
+Dakshita agarwal
+Developer| Technical writer and Bug bounty hunter
+
+#### 7
 ```
 venkatesh pensalwar
 Developer| Love to learn new things and share knowledge.
 venkateshpensalwar
 ```
 
-#### 5
+#### 8
 ```
 Aniket Chowdhury
 Developer| Machine Learning Analyst
