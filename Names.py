@@ -22,3 +22,6 @@ venkateshpensalwar")
 print("Aniket Chowdhury
 Developer| Machine Learning Analyst
 aniketbiprojit")
+print("Pulkit
+Developer| Machine Learning Analyst
+pulkitthakran")
