@@ -17,8 +17,6 @@ STEP 3: Add your Github username and a short description about you.
 ```
 STEP 4: Go to Names.py
 ```
-We will build a wonderful community in this process.
-
 ```
 STEP 5: print your Github username and a short description about you. 
 ```
