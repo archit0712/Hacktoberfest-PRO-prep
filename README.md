@@ -14,11 +14,18 @@ We will build a wonderful community in this process.
 ```
 STEP 3: Add your Github username and a short description about you. 
 ```
+```
+STEP 4: Go to Names.py
+```
+We will build a wonderful community in this process.
 
 ```
-STEP 4: Create a pull request.
+STEP 5: print your Github username and a short description about you. 
+```
+```
+STEP 6: Create a pull request.
 ```
 
 ```
-STEP 5: Wait for it to get approved and merged.
+STEP 7: Wait for it to get approved and merged.
 ```
