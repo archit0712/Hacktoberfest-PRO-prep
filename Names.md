@@ -47,3 +47,9 @@ Pulkit
 Developer| Machine Learning Analyst
 pulkitthakran
 ```
+##### 10
+```
+Alok Tripathi
+Student at JIIT|Competitive Programming|Learning GCP
+Tripathi-Alok
+```
