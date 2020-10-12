@@ -15,3 +15,5 @@ print("Aniket Chowdhury Developer| Machine Learning Analyst aniketbiprojit")
 print("Pulkit Developer| Machine Learning Analyst pulkitthakran")
 
 print("Archit Developer| Machine Learning Analyst archit0712")
+
+print("Alok Tripathi | Competitive Programmer |Tripathi-Alok")
