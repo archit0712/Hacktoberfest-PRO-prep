@@ -13,3 +13,5 @@ print("venkatesh pensalwar Developer| Love to learn new things and share knowled
 print("Aniket Chowdhury Developer| Machine Learning Analyst aniketbiprojit")
 
 print("Pulkit Developer| Machine Learning Analyst pulkitthakran")
+
+print("Archit Developer| Machine Learning Analyst archit0712")
