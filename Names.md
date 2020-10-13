@@ -53,3 +53,7 @@ Alok Tripathi
 Student at JIIT|Competitive Programming|Learning GCP
 Tripathi-Alok
 ```
+##### 15
+Archit Mittal
+Developer | Machine Learning Analyst
+```
